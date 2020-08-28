@@ -1,17 +1,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Collection of My Software and Research
 
 # Your name to show in the footer
-author: Some Person
+author: Trevor Pedersen
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Do Company Fundamentals Explain Stock Market Performance?: "https://medium.com/@trevorpedersen/do-company-fundamentals-explain-stock-market-performance-b81803cb934f"
+  #Resources:
+  #  - Do Company Fundamentals Explain Stock Market Performance?: "https://medium.com/@trevorpedersen/do-company-fundamentals-explain-stock-market-performance-b81803cb934f"
   Author's home: "https://ttped.github.io/blog/"
 
 # --- Logo --- #
@@ -63,8 +63,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
