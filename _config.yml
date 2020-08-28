@@ -11,9 +11,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Do Company Fundamentals Explain Stock Market Performance?: "https://medium.com/@trevorpedersen/do-company-fundamentals-explain-stock-market-performance-b81803cb934f"
+  Author's home: "https://ttped.github.io/blog/"
 
 # --- Logo --- #
 
@@ -34,10 +33,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "trevor.pedersen43@gmail.com"
+# facebook: deanattali
   github: daattali
-  twitter: daattali
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
